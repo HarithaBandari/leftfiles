@@ -1,0 +1,6 @@
+com/stackroute/movie/dao/MovieDAO.class
+com/stackroute/movie/model/Movie.class
+com/stackroute/movie/dao/MovieDAOImpl.class
+com/stackroute/movie/config/ApplicationContextConfig.class
+com/stackroute/movie/config/WebAppInitializer.class
+com/stackroute/movie/controller/MovieController.class

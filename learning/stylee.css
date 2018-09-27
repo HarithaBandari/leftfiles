@@ -1,0 +1,62 @@
+.container_12{
+    background:white;
+}
+header{
+    background:palegoldenrod;
+    overflow:hidden;
+    position:fixed;
+    font-family: 'Sigmar One',Cursive;
+    font-size:50;
+    
+}
+nav li{
+    display:inline;
+    margin-left:0;
+    margin-right:30px;
+    font-size: 15;
+    font-family: 'Ovo',serif;}
+    .herounit{
+        margin-top:57px;
+        background:white;
+        font-family: 'Ovo',serif;
+        font-size:15;  
+    } 
+    .hline { width:100%; height:1px; background: #fff }
+aside{
+   float:right; 
+   background:white;
+   width:30%;
+   font-family: 'Ovo',Serif;
+}
+
+.primary{
+    background:white;  
+   width:100%; 
+   height:500px;
+   font-family: 'Ovo',Serif;
+   font-size:15;
+
+}
+
+.secondary{
+    background:white;
+    font-family: 'Ovo',Serif;
+        font-size:15;
+}
+footer{
+   background:palegoldenrod;
+  font-size: 15;
+  margin-left:30px;
+    margin-right:0;
+    font-family: 'Ovo',Serif;
+}
+footer li{
+    display:inline;
+    
+}
+social{
+    float:left;
+}
+comment{
+    float:right;
+}
